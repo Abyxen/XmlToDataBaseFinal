@@ -25,7 +25,7 @@ namespace XmlToDataBase
         }
 
       
-        // LOAD GRID
+        // LOAD GRID...
       
         private void LoadData()
         {
@@ -52,7 +52,7 @@ namespace XmlToDataBase
         }
 
        
-        // SEARCH
+        // SEARCH 
     
         private void BtnSearch_Click(object sender, EventArgs e)
         {
